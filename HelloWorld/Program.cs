@@ -12,6 +12,7 @@ namespace HelloWorld
             Console.WriteLine($"{msz1} {msz2} {msz3}");
             msz1 = "Hi";
             Console.WriteLine($"{msz1} {msz2} {msz3}");
+            // Testing comments 
             Console.ReadLine();
         }
     }
