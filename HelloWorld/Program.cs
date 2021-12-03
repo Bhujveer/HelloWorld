@@ -10,6 +10,8 @@ namespace HelloWorld
             var msz2 = "I am using";
             var msz3 = "GITHUB";
             Console.WriteLine($"{msz1} {msz2} {msz3}");
+            msz1 = "Hi";
+            Console.WriteLine($"{msz1} {msz2} {msz3}");
             Console.ReadLine();
         }
     }
